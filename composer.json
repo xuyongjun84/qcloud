@@ -1,0 +1,11 @@
+{
+    "name": "wanpinghui/qcloud",
+    "description": "wanpinghui, qcloud",
+    "license": "MIT",
+    "require": {
+        "php": "^5.3.3"
+    },
+    "autoload": {
+        "files": ["TimRestApi.php"]
+    }
+}
